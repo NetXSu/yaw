@@ -8,7 +8,7 @@
 </head>
 <body class="flex items-center justify-center min-h-screen bg-white">
     <div class="text-center">
-        <img src="URL_GAMBAR_ANDA" alt="Deskripsi Gambar" class="mb-4 rounded-lg shadow-lg">
+        <img src="https://raw.githubusercontent.com/NetXSu/yaw/main/gambar.jpg" alt="Deskripsi Gambar" class="mb-4 rounded-lg shadow-lg">
         <p class="text-gray-800 text-lg font-medium">
             "Ada sakit yang tidak bisa dijelaskan, dan ada kecewa yang tidak bisa diungkapkan."
         </p>
